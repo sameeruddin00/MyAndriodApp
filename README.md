@@ -13,7 +13,7 @@ This is a simple Android application built using Android Studio with Java. The a
 
 
 ## How to Run:
-1. Clone the repository on your computer
+1. Clone the repository
 2. Open the project in Andriod Srudio.
 3. Ensure that you have the necessary SDK's installed.
 4. Run the app on an Andriod device or emulator.
