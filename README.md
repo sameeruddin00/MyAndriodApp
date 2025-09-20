@@ -17,5 +17,5 @@ This is a simple Android application built using Android Studio with Java. The a
 2. Open the project in Andriod Srudio.
 3. Ensure that you have the necessary SDK's installed.
 4. Run the app on an Andriod device or emulator.
-5. Enter a text in the textbox and click the button to see the greetings messege and the current time and date.
+
 
