@@ -11,11 +11,3 @@ This is a simple Android application built using Android Studio with Java. The a
 + Java: Used for app logic and functionality.
 + Android SDK: Provides essential components for building the user interface and handling input.
 
-
-## How to Run:
-1. Clone the repository
-2. Open the project in Andriod Srudio.
-3. Ensure that you have the necessary SDK's installed.
-4. Run the app on an Andriod device or emulator.
-5. Enter a text in the textbox and click the button to see the greetings messege and the current time and date.
-
